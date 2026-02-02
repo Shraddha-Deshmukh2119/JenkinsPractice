@@ -1,1 +1,1 @@
-printf("Hello this is first python program")
+print("Hello this is first python program")
